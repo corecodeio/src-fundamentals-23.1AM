@@ -1,3 +1,5 @@
+// Count strings in objects
+
 // Step 1: Function create
 // Step 2: Easy scenario
 // Step 3: Out the box

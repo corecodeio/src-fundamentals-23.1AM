@@ -38,3 +38,18 @@ src-fundamentals/
 - `day_YY/`: Each day of the week has a folder named with the format day_YY (e.g., day_01, day_02, etc.).
 - `session/`: Each live coding session has a folder named session.
 - `standup/`: Each stand up session has a folder named standup.
+
+
+### Slides
+
+[JS Intro](https://docs.google.com/presentation/d/12pCQ2K5NPsUdwoYLziSfh3cBNr-0WSZV25NskB6rxbk/edit?usp=sharing)
+
+[JS Data Types](https://docs.google.com/presentation/d/1v66hgTiKoLqUDUH-wESbkkBuSA-mczkIpk1a7qF_vh0/edit?usp=sharing)
+
+[JS Data Types - Classes & Objects](https://docs.google.com/presentation/d/1NXDhyP2EVhRYzRPLUyYfWYFSKXwDYn5Nt66QswM8TRo/edit?usp=sharing)
+
+[JS Reference Types](https://docs.google.com/presentation/d/1_6e1uGjHE54Sa3-L8v_7sEF-b5Crv5Ddxpjvm_JKfmY/edit?usp=sharing)
+
+[JS Loops & Iterations](https://docs.google.com/presentation/d/1aqBfpVop3xENp5t_dXc-bWR8zLgW1ngWLyxqZ_4YPMg/edit?usp=sharing)
+
+[JS Control Flow](https://docs.google.com/presentation/d/1_ARa2hGqOXz8ftJOKN-icKmDy_EPoYU5mc30_hd8lSE/edit?usp=sharing)
