@@ -71,6 +71,11 @@ body {
   color: white;
 }
 
+.operation.selected {
+  color: #ee6c4d;
+  background-color: white;
+}
+
 .operation:hover,
 .equal:hover {
   background-color: white;
